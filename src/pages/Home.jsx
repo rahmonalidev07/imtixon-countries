@@ -3,7 +3,6 @@ import { Outlet } from "react-router-dom";
 import Header from "../components/Header";
 import { UseFetch } from "../hooks/UseFetch";
 import CountriesList from "./CountriesList";
-import SingleCountry from "./SingleCountry";
 
 const Home = () => {
   const [search, setSearch] = useState("");

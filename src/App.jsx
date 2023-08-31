@@ -1,7 +1,6 @@
 // Bu kodni RahmonaliUz yozdi iltimos manbaa bilan oling
 
 import React from "react";
-import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import "./App.css";
 import Home from "./pages/Home";
